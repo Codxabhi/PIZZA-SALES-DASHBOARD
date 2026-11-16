@@ -37,7 +37,7 @@ The analysis focuses on understanding:
 | **SQL Server** | Data querying, aggregation and business analysis      |
 | **Python**     | Data cleaning, analysis and exploratory data analysis |
 | **Pandas**     | Data manipulation and validation                      |
-| **Tableau**    | Dashboard development and visualization               |
+| **PowerBI**    | Dashboard development and visualization               |
 | **CSV**        | Raw sales dataset                                     |
 
 
